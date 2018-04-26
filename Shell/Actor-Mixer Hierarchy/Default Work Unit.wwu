@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3FD4EC09-6A74-4A18-B270-F423860FA820}" SchemaVersion="85">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{3FD4EC09-6A74-4A18-B270-F423860FA820}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX" ID="{D80D1383-25D9-4C46-B093-A8D1168B0E83}" ShortID="400831636">
+					<ChildrenList>
+						<Folder Name="Feet" ID="{C70B21B0-463C-4563-A127-A49C51C9EA58}" ShortID="1069996316">
+							<ChildrenList>
+								<SwitchContainer Name="Steps" ID="{049EA59A-E28E-4E59-B57A-9358FE1B32EE}" ShortID="356503415">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="SFX" ID="{3A0B5675-242F-4077-9AE0-21344AB10D0A}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<RandomSequenceContainer Name="Grass" ID="{D62C2092-CCED-4BB2-8DCA-2BE4D8DB7F3B}" ShortID="586407469">
+											<PropertyList>
+												<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+												<Property Name="Pitch" Type="int32">
+													<ModifierList>
+														<ModifierInfo>
+															<Modifier Name="" ID="{90938E45-E7C3-4736-B05D-BDB012C65E3E}">
+																<PropertyList>
+																	<Property Name="Enabled" Type="bool" Value="True"/>
+																	<Property Name="Max" Type="Real64" Value="429"/>
+																	<Property Name="Min" Type="Real64" Value="-480"/>
+																</PropertyList>
+															</Modifier>
+														</ModifierInfo>
+													</ModifierList>
+												</Property>
+												<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="2"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="Steps_Grass_Racoon01" ID="{B9EE23F8-6B1F-46C9-AAB0-525A36CED591}" ShortID="80781839">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="Steps_Grass_Racoon01" ID="{3AB77050-5E1B-4B4B-86A2-FD8352249005}" ShortID="135357690">
+															<Language>SFX</Language>
+															<AudioFile>Steps_Grass_Racoon01.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="Steps_Grass_Racoon01" ID="{3AB77050-5E1B-4B4B-86A2-FD8352249005}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="Steps_Grass_Racoon02" ID="{BAE4B9FD-DE11-4BCA-9982-C535BD80D40B}" ShortID="510882573">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="Steps_Grass_Racoon02" ID="{01E91C71-2ABF-4A5A-B227-32C3C35674AA}" ShortID="303547882">
+															<Language>SFX</Language>
+															<AudioFile>Steps_Grass_Racoon02.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="Steps_Grass_Racoon02" ID="{01E91C71-2ABF-4A5A-B227-32C3C35674AA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="Steps_Grass_Racoon03" ID="{B8E54194-EF74-48F9-B058-3BE07610460A}" ShortID="571619512">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="Steps_Grass_Racoon03" ID="{E563D6DB-89A8-4B7E-B80C-90F5073C294E}" ShortID="311723344">
+															<Language>SFX</Language>
+															<AudioFile>Steps_Grass_Racoon03.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="Steps_Grass_Racoon03" ID="{E563D6DB-89A8-4B7E-B80C-90F5073C294E}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="Steps_Grass_Racoon04" ID="{E70D43B7-EE03-406F-8627-91528B9AE7C1}" ShortID="945776589">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="Steps_Grass_Racoon04" ID="{6EA4A065-D448-4B81-AD8A-0261A338CA06}" ShortID="180596269">
+															<Language>SFX</Language>
+															<AudioFile>Steps_Grass_Racoon04.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="Steps_Grass_Racoon04" ID="{6EA4A065-D448-4B81-AD8A-0261A338CA06}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</RandomSequenceContainer>
+										<RandomSequenceContainer Name="Wood" ID="{374F9FDF-2937-4B36-BDAE-AFA958D7C9CF}" ShortID="868177778">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+												</Reference>
+											</ReferenceList>
+										</RandomSequenceContainer>
+										<SwitchContainer Name="New Switch Container" ID="{5FDAC7FD-F202-4963-8B12-1BC8565F117B}" ShortID="532270417">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+												</Reference>
+											</ReferenceList>
+											<GroupingInfo/>
+										</SwitchContainer>
+										<RandomSequenceContainer Name="New Sequence Container" ID="{DA6F16DB-2E6D-458E-B278-1FDDD48A9C29}" ShortID="646882561">
+											<PropertyList>
+												<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<RandomSequenceContainer Name="Left" ID="{DC663C80-078C-4BAD-A844-7C9938C650F0}" ShortID="534219400">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+												</RandomSequenceContainer>
+												<RandomSequenceContainer Name="Right" ID="{C4082B39-86D8-45AB-BD09-40829F6A76EA}" ShortID="65837509">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
+														</Reference>
+													</ReferenceList>
+												</RandomSequenceContainer>
+											</ChildrenList>
+										</RandomSequenceContainer>
+									</ChildrenList>
+									<GroupingInfo>
+										<GroupingBehaviorList>
+											<GroupingBehavior>
+												<ItemRef Name="Grass" ID="{D62C2092-CCED-4BB2-8DCA-2BE4D8DB7F3B}"/>
+											</GroupingBehavior>
+											<GroupingBehavior>
+												<ItemRef Name="New Sequence Container" ID="{DA6F16DB-2E6D-458E-B278-1FDDD48A9C29}"/>
+											</GroupingBehavior>
+											<GroupingBehavior>
+												<ItemRef Name="Wood" ID="{374F9FDF-2937-4B36-BDAE-AFA958D7C9CF}"/>
+											</GroupingBehavior>
+											<GroupingBehavior>
+												<ItemRef Name="New Switch Container" ID="{5FDAC7FD-F202-4963-8B12-1BC8565F117B}"/>
+											</GroupingBehavior>
+										</GroupingBehaviorList>
+									</GroupingInfo>
+								</SwitchContainer>
+							</ChildrenList>
+						</Folder>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
