@@ -3,7 +3,7 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{5AC52EBC-1751-4513-A79B-CCA82781ACE8}">
 			<PropertyList>
-				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\rizum\Documents\MM\2S\DSMD\P2\FEUP_DJCO_FINAL-master\Reaper Linear Sound Testing\SOUNDFX"/>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\SOUNDFX"/>
 				<Property Name="Event Action List\{1AE77A65-23FD-4465-B41F-B0D11628F857}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{3DB70E8B-4E7E-4BE4-B09B-E9B08558721C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{5D814B25-E8FC-4E73-A148-3CF2271E629F}\x64_Expand States" Type="string" Value=""/>
@@ -38,7 +38,7 @@
 				<Property Name="PluginUserAcknowledge\SoundSeedAir" Type="bool" Value="True"/>
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
-				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{2388DAEA-9775-46C6-A2ED-C5222A397756}"/>
+				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{F3B65C81-52C3-4E0E-85E4-9A77750F8269}"/>
 				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
@@ -56,7 +56,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ843+nWMuyspChvz4gTsg+kvyTiaVxLcQR7FFoUDkT1f6"/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="sCELxzxGY0WhJ6ScUcnqWNsWb9ptLo5Fsngf3dSKnCkJ7NQ/dGoYSrJw9COGD6ggkiAs1u3MskuNyivk2Nt/O4MTDdjZJUZMsJOo0RaLDoM0I8FQ25jKTJHqJe6ehYiXmqWeBI7iWU61epNY/hsy7pPXXbuF8nRPjR3fekuJMoA="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="sCELxzxGY0WhJ6ScUcnqWNsWb9ptLo5Fsngf3dSKnCk5KwjE2IarRb0JQIKfanbqCezUP3RqGEqycPQjhg+oIBdmA6wRkipLmCTqhLqC5o2APGbcjAetS6hEfJk4xlDwkiAs1u3MskuNyivk2Nt/O4MTDdjZJUZMsJOo0RaLDoM0I8FQ25jKTJHqJe6ehYiXgVy288NSDk6F5Jp3dQ+CaZqlngSO4llOtXqTWP4bMu6T1127hfJ0T40d33pLiTKA"/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="IrMv9Ul8zU6tGSQJF+V+Eg=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>

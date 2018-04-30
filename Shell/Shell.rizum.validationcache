@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="85">
-	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1524585477" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1520338092" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1525094502" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1525094518" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1524493020" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Attenuations\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Audio Devices\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Control Surface Sessions\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Conversion Settings\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Conversion Settings\Default Work Unit.wwu" DateLow="1525094204" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1520338085" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Effects\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
@@ -31,7 +31,7 @@
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Presets\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Queries\Default Work Unit.wwu" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Queries\Factory Queries.wwu" DateLow="1520338085" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Shell.rizum.wsettings" DateLow="1524586635" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Shell.rizum.wsettings" DateLow="1525094521" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Shell.wproj" DateLow="1524490024" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\SoundBanks\Default Work Unit.wwu" DateLow="1524585477" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1524585477" DateHigh="0"/>

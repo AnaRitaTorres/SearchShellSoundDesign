@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1866025847	Footstep			\Default Work Unit\Footstep	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	19489720	Steps_Grass_Unknown03	C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\.cache\Windows\SFX\Steps_Grass_Unknown03_6DA2138B.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Feet\Steps\Grass\Steps_Grass_Unknown03		42464
+	173387497	Steps_Grass_Unknown04	C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\.cache\Windows\SFX\Steps_Grass_Unknown04_6DA2138B.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Feet\Steps\Grass\Steps_Grass_Unknown04		46298
+	801941750	Steps_Grass_Unknown02	C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\.cache\Windows\SFX\Steps_Grass_Unknown02_6DA2138B.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Feet\Steps\Grass\Steps_Grass_Unknown02		51688
+	927002632	Steps_Grass_Unknown01	C:\Users\rizum\Documents\Git\ShellSearch\SearchShellSoundDesign\Shell\.cache\Windows\SFX\Steps_Grass_Unknown01_6DA2138B.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Feet\Steps\Grass\Steps_Grass_Unknown01		39778
+
