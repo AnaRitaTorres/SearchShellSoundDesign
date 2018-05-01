@@ -5,7 +5,7 @@
 			<ChildrenList>
 				<Folder Name="SFX" ID="{D80D1383-25D9-4C46-B093-A8D1168B0E83}" ShortID="400831636">
 					<ChildrenList>
-						<Folder Name="Feet" ID="{C70B21B0-463C-4563-A127-A49C51C9EA58}" ShortID="1069996316">
+						<Folder Name="Collide" ID="{C70B21B0-463C-4563-A127-A49C51C9EA58}" ShortID="1069996316">
 							<ChildrenList>
 								<SwitchContainer Name="Steps" ID="{049EA59A-E28E-4E59-B57A-9358FE1B32EE}" ShortID="356503415">
 									<ReferenceList>
@@ -127,20 +127,12 @@
 												</Sound>
 											</ChildrenList>
 										</RandomSequenceContainer>
-										<SwitchContainer Name="New Switch Container" ID="{5FDAC7FD-F202-4963-8B12-1BC8565F117B}" ShortID="532270417">
-											<ReferenceList>
-												<Reference Name="Conversion">
-													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{DECEA997-C69F-4942-A85D-F2831D35AC6C}"/>
-												</Reference>
-												<Reference Name="OutputBus">
-													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{95264EF2-B7C4-4710-B145-A140E44F57FA}"/>
-												</Reference>
-											</ReferenceList>
-											<GroupingInfo/>
-										</SwitchContainer>
 										<RandomSequenceContainer Name="Wood" ID="{DA6F16DB-2E6D-458E-B278-1FDDD48A9C29}" ShortID="646882561">
 											<PropertyList>
-												<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+												<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+												<Property Name="PlayMechanismInfiniteOrNumberOfLoops" Type="int16" Value="0"/>
+												<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
+												<Property Name="PlayMechanismSpecialTransitionsType" Type="int16" Value="2"/>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
@@ -391,9 +383,6 @@
 											</GroupingBehavior>
 											<GroupingBehavior>
 												<ItemRef Name="Wood" ID="{DA6F16DB-2E6D-458E-B278-1FDDD48A9C29}"/>
-											</GroupingBehavior>
-											<GroupingBehavior>
-												<ItemRef Name="New Switch Container" ID="{5FDAC7FD-F202-4963-8B12-1BC8565F117B}"/>
 											</GroupingBehavior>
 										</GroupingBehaviorList>
 									</GroupingInfo>
